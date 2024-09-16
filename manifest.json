@@ -1,0 +1,17 @@
+{
+  "name": "TON Coin Release App",
+  "short_name": "TON Release",
+  "description": "An app to release TON coins.",
+  "icons": [
+    {
+      "src": "https://images.app.goo.gl/gCqYmtMDPQNnApqj6",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#000000"
+}
